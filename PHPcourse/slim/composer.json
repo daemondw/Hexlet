@@ -1,0 +1,14 @@
+{
+    "name": "dim/slim",
+    "description": "homework",
+    "authors": [
+        {
+            "name": "Dima Antonenko",
+            "email": "daemondw@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0",
+        "slim/php-view": "^2.2"
+    }
+}
